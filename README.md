@@ -4,6 +4,20 @@
 This project is a PowerBi Data Analysis Project of a figurative store called **“TechNova Solutions”**, a B2B company that sells computer Hardware (Graphic Cards). 
 This project aims to provide insights into the sales and employee performance of the first 10 months of business. By analysing the dataset we seek to identify trends, make data-driven recommendations and gain a deeper understanding of the company's sales performance.
 
+### Table of Contents
+- [Project Overview](Project-Overview)
+- [Objective](Objective)
+- [About Dataset](About-Dataset)
+- [Problem Statement](Problem-Statement)
+- [Data Analysis Technique](Data-Analysis-Technique)
+- [Data Analysis](Data-Analysis)
+- [Results & Findings](Results-&-Findings)
+- [Recommendations](Recommendations)
+
+
+
+
+
 ### Project Overview
 
 
