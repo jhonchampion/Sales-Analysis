@@ -35,7 +35,8 @@ TechNova is a start-up Tech company that sells computer graphic cards to other b
 The dataset was obtained from the [Maven Analytics page](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&page=3&pageSize=5).
 
 Screenshots of Dataset:
-![](Dataset.png)
+![](Images/Dataset.png)
+![](Images/Data_model.png)
 
 The dataset contained multiple tables:
 - *accounts*
@@ -113,36 +114,62 @@ SUMX(
 
 ### Results and Findings
 
-1. Total Revenue:
+1. **Total Revenue**:
+   
    **June** has the most Revenue generated with about **$1.3M**, followed by **September** with **$1.2M** while
    **April** and **July** had the least revenue generated with just about **$700k**
 
-2. Products with the most Revenue:
-   **GTX Pro** grossed the most revenue with about ***$3.5M***, followed by the **GTX Plus Pro**. **MG Special** had the least revenue with just above ***$40k*** followed
-   by the **GTK 500**
+   Check Image below:
+   
+   ![](Images/Revenue_trend.png)
 
-3. Total Revenue by Region:
+2. **Products with the most Revenue**:
+   
+   **GTX Pro** grossed the most revenue with about ***$3.5M***, followed by the **GTX Plus Pro**. **MG Special** had the least revenue with just above ***$40k*** followed
+   by the **GTK 500**.
+
+   Check Image below:
+   
+   ![](Images/Product_revenue.png)
+
+3. **Total Revenue by Region**:
+   
    The Western region made about $3.6m, followed by the Central region with $3.3m, the Eastern had the lowest revenue of about $3.1m
 
+   Check Image below:
+   ![](Images/Revenue_region.png)
 
-4. Discounts:
+4. **Discounts**:
+   
    **GTX Basic** had the highest percentage of discounted sales with **22%** and a total of about **$22,000** lost to discounted sales.
    While the **GTX Pro** incurred the ***highest loss*** due to discounts, totaling approximately **$140,000**, despite being the third-highest product in discounted sales.
    It was followed by **GTX Plus Pro**, which recorded a discount loss of **$108,000**
 
-5. Total Revenue Lost to Discount:
    Due to increased Discounts given to clients by the sales team, TechNova **lost over $400,000** in revenue to discounted sales across the first 10 months of business
 
-6. Gross Profit:
-   TechNova incurred a Deficit of about **$18,000** in Gross profit. Gross profit shows the difference between the total cost price of products sold and the total sales.
+   Check Image below:
    
-   Gross profit loss across the 10 months with **June** having the highest gross profit with about **$4,800**, followed by November with **$2,233**. 
-   December generated a mere $535 while August had the highest loss incurred with over **$9,400**, followed by March & July with over **$7,300**.
+   ![](Images/Product_discount.png)
 
-7. Win Rate:
+   
+5. **Gross Profit**:
+   
+   TechNova incurred a Deficit of about **$18,000** in Gross profit. Gross profit shows the difference between the total cost price of products sold and the total sales.
+   Gross profit loss across the 10 months with **June** having the highest gross profit with about **$4,800**, followed by November with **$2,233**. 
+   December generated a mere $535 while August had the **highest loss** incurred with over **$9,400**, followed by March & July with over **$7,300**.
+
+   Check Image below:
+   
+   ![](Images/Gross_profit_Trend.png)  
+
+6. **Win Rate**:
+   
    With a total of 8800 deals, 4238 were WON deals, giving a win rate of **48.2%**.
    With the GTX Pro having the highest win rate of 49.5%, while **GTK 500** had the lowest win rate of 37.5%
 
+   Check Image below:
+   
+   ![](Images/win_rate.png)  
    
 
 Recommendations
