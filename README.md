@@ -123,22 +123,22 @@ SUMX(
 
 7. Win Rate:
    With a total of 8800 deals, 4238 were WON deals, giving a win rate of **48.2%**.
-   With the GTX Pro having the win rate of 53%, followed by the 
+   With the GTX Pro having the highest win rate of 49.5%, while **GTK 500** had the lowest win rate of 37.5%
 
    
 
 Recommendations
 -----
-1. Reduce Unecessary Discounting: Implement stricter discount approval processes to minimize revenue loss from excessive discounting and ensure that discounts are strategically aligned with business objectives.
+1. **Reduce Unecessary Discounting**: Implement stricter discount approval processes to minimize revenue loss from excessive discounting and ensure that discounts are strategically aligned with business objectives.
 
-2. Pricing Review: With 50% of products being sold at a discounted rate, it shows that the market price is not favorable to the customers. 
+2. **Pricing Review**: With 50% of products being sold at a discounted rate, it shows that the market price is not favorable to the customers. 
 This might involve optimizing the value chain to reduce costs of getting these products before sales and subsequently giving room for increased profit per sale of a product.
 
-3. Provide Additional Training to Sales Agents: Offer targeted training programs to underperforming sales agents, focusing on key skills such as negotiation, closing techniques, and product knowledge. This will help improve their overall performance.
+3. **Provide Additional Training to Sales Agents**: Offer targeted training programs to underperforming sales agents, focusing on key skills such as negotiation, closing techniques, and product knowledge. This will help improve their overall performance.
 
-4. Sales Incentive Programs: Introduce a quarterly sales incentive program for top closers, rewarding them for their outstanding performance and motivating others to strive for excellence. This will drive increased sales and revenue.
+4. **Sales Incentive Programs**: Introduce a quarterly sales incentive program for top closers, rewarding them for their outstanding performance and motivating others to strive for excellence. This will drive increased sales and revenue.
 
-5. Mentorship Opportunities: Create mentorship opportunities where top-performing sales agents can guide and support their peers. This will foster a collaborative environment and facilitate knowledge sharing.
+5. **Mentorship Opportunities**: Create mentorship opportunities where top-performing sales agents can guide and support their peers. This will foster a collaborative environment and facilitate knowledge sharing.
 
 
  
