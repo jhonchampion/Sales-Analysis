@@ -172,8 +172,22 @@ SUMX(
    ![](Images/win_rate.png)  
    
 
+
+-----
+## Dashboard
+
+Below is a Screenshot of the PowerBi Dashboard Created for this Project:
+
+ ![](Images/Dashboard.png)  
+
+Access to the dashboard can be found [here]()
+
+-----
+
+
 Recommendations
 -----
+
 1. **Reduce Unecessary Discounting**: Implement stricter discount approval processes to minimize revenue loss from excessive discounting and ensure that discounts are strategically aligned with business objectives.
 
 2. **Pricing Review**: With 50% of products being sold at a discounted rate, it shows that the market price is not favorable to the customers. 
