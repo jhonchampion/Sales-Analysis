@@ -11,7 +11,7 @@ This project aims to provide insights into the sales and employee performance of
 - [Problem Statement](#problem-statement)
 - [Data Analysis Technique](#data-analysis-technique)
 - [Data Analysis](#data-analysis)
-- [Results & Findings](#results-&-findings)
+- [Results and Findings](#results-and-findings)
 - [Recommendations](#recommendations)
 
 
@@ -107,7 +107,7 @@ SUMX(
 ```
 
 
-### Results & Findings
+### Results and Findings
 
 1. Total Revenue:
    **June** has the most Revenue generated with about **$1.3M**, followed by **September** with **$1.2M** while
