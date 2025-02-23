@@ -33,6 +33,10 @@ TechNova is a start-up Tech company that sells computer graphic cards to other b
 ### About Dataset:
 
 The dataset was obtained from the [Maven Analytics page](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&page=3&pageSize=5).
+
+Screenshots of Dataset:
+![](Dataset.png)
+
 The dataset contained multiple tables:
 - *accounts*
 - *sales_pipeline*
