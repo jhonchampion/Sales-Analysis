@@ -35,8 +35,11 @@ TechNova is a start-up Tech company that sells computer graphic cards to other b
 The dataset was obtained from the [Maven Analytics page](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&page=3&pageSize=5).
 
 Screenshots of Dataset:
-![](Images/Dataset.png)
-![](Images/Data_model.png)
+| Database       | Data Model     | 
+| :-------------: |:-------------:| 
+| ![](Images/Dataset.png)      | ![](Images/Data_model.png) |
+
+
 
 The dataset contained multiple tables:
 - *accounts*
@@ -44,6 +47,8 @@ The dataset contained multiple tables:
 -  *sales_team*
 - *products*;
 containing about **8430** records, **31** fields.
+
+> ***Disclaimer:*** All datasets and reports do not represent any company, institution or country, the datasets are from the **Maven CRM Sales Opportunities** which can be accessed [here](). 
 
 Problem Statement 
 ------
@@ -180,7 +185,7 @@ Below is a Screenshot of the PowerBi Dashboard Created for this Project:
 
  ![](Images/Dashboard.png)  
 
-Access to the dashboard can be found [here]()
+Access to the dashboard can be found [here](https://app.powerbi.com/groups/me/reports/09e5b635-a5a8-492b-9a0c-bc5c69f9d65c/e5cd850855c23f6f6dd7?experience=power-bi)
 
 -----
 
@@ -188,16 +193,28 @@ Access to the dashboard can be found [here]()
 Recommendations
 -----
 
-1. **Reduce Unecessary Discounting**: Implement stricter discount approval processes to minimize revenue loss from excessive discounting and ensure that discounts are strategically aligned with business objectives.
+1. **Reduce Unecessary Discounting**:
+   - Implement stricter discount approval processes to minimize revenue loss from excessive discounting and ensure that discounts are strategically aligned with business         objectives.
 
-2. **Pricing Review**: With 50% of products being sold at a discounted rate, it shows that the market price is not favorable to the customers. 
-This might involve optimizing the value chain to reduce costs of getting these products before sales and subsequently giving room for increased profit per sale of a product.
+3. **Pricing Review**:
+   - With 50% of products being sold at a discounted rate, it shows that the market price is not favorable to the customers. 
+     This might involve optimizing the value chain to reduce costs of getting these products before sales and subsequently giving room for increased profit per sale of a         product.
 
-3. **Provide Additional Training to Sales Agents**: Offer targeted training programs to underperforming sales agents, focusing on key skills such as negotiation, closing techniques, and product knowledge. This will help improve their overall performance.
+5. **Provide Additional Training to Sales Agents**:
+   - Offer targeted training programs to underperforming sales agents, focusing on key skills such as negotiation, closing techniques, and product knowledge. This will help      improve their overall performance.
 
-4. **Sales Incentive Programs**: Introduce a quarterly sales incentive program for top closers, rewarding them for their outstanding performance and motivating others to strive for excellence. This will drive increased sales and revenue.
+7. **Sales Incentive Programs**:
+   - Introduce a quarterly sales incentive program for top closers, rewarding them for their outstanding performance and motivating others to strive for excellence. This         will drive increased sales and revenue.
 
-5. **Mentorship Opportunities**: Create mentorship opportunities where top-performing sales agents can guide and support their peers. This will foster a collaborative environment and facilitate knowledge sharing.
+9. **Mentorship Opportunities**:
+    - Create mentorship opportunities where top-performing sales agents can guide and support their peers. This will foster a collaborative environment and facilitate             knowledge sharing.
+
+-----
+### Conclusion 
+
+The analysis of the data for the 10 months has provided valuable insights into TechNova sales pipeline. The undulating revenue and loss in gross profit highlight areas of weakness for the business.
+
+Thus, opportunities for improvement remain, such as removing unnecessary discounts, reviewing the prices of products, and leveraging on trainings and incentives for the sales agents to enhance better price negotiation with clients. By implementing the recommended strategies, TechNova can capitalize on its strengths, address operational inefficiencies, and foster sustainable growth, ensuring a consistently progressive growth experience as they move past the first one-year of the business.
 
 
  
