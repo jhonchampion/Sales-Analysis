@@ -13,6 +13,7 @@ This project aims to provide insights into the sales and employee performance of
 - [Data Analysis](#data-analysis)
 - [Results and Findings](#results-and-findings)
 - [Recommendations](#recommendations)
+- [Conclusion](#conclusion)
 
 
 
