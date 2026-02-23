@@ -1,7 +1,7 @@
 # B2B Sales Performance Analysis
 
 ### Introduction
-This project is a PowerBi Data Analysis Project of a figurative store called **“TechNova Solutions”**, a B2B company that sells computer Hardware (Graphic Cards). 
+This project is a PowerBi Data Analysis Project of a tech store called **“TechNova Solutions”**, a B2B company that sells computer Hardware (Graphic Cards). 
 This project aims to provide insights into the sales and employee performance of the first 10 months of business. By analysing the dataset we seek to identify trends, make data-driven recommendations and gain a deeper understanding of the company's sales performance.
 
 ### Table of Contents
